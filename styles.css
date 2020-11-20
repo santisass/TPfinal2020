@@ -1,0 +1,24 @@
+ .container-fluid{
+    background-color:gainsboro;
+    height: 700px;
+    margin: 30px;
+    
+    
+    
+}
+
+.container-fluid .col {
+    background-color: gray;
+    height: 150px;
+    margin: 100px; 
+}
+
+.container-texto {
+    padding: 90px;
+}
+
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    margin-left: 50px;
+    
+}
